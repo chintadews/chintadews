@@ -57,8 +57,8 @@
 ---
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/liebedews#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/liebedews#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/chintadews#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/chintadews#gh-dark-mode-only)
