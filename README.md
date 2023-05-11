@@ -1,4 +1,4 @@
-# Hi everyone, I'm Chinta - originally I am a creative make-up artist and baruty content creator. You can check my portofolio on beauty industry at [chintadews](https://www.instagram.com/chintadews/) 👋
+# Hi everyone, I'm Chinta - originally I am a creative make-up artist and beauty content creator. You can check my portofolio on beauty industry at [chintadews](https://www.instagram.com/chintadews/) 👋
 ## About me:
 - 🔭 I currently working as a Finance Staff at [PT Baleomol Indonesia](https://baleomol.com/)
 - 🌱 Recently just finish my learning on Python and SQL
